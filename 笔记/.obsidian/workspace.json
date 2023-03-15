@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "6c8be3c6e0581005",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ae8b54ccdfb939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b7e1606d8f0682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shell脚本语言/shell传递变量.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c824529376e23668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux命令/软件管理命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a28836b9670cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux命令/软件管理命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ec76897d8130c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux命令/磁盘管理命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97dca263b988a5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux命令/GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "60555bdaebd51caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d65f442d8b4bd34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux命令/GIT.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f51f6cf312fa826f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e27119be59de25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443c1ac59a124c0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1bd5e321f991cd39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f106f2a11ee70037",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "197a133f1c89f85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08e349f78cb313e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42554a0f052da661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux命令/GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9babb8ae02a2c36a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux命令/GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f257dd71d64fd607",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c57db20f2f8ddf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux命令/GIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "97dca263b988a5c6",
+  "lastOpenFiles": [
+    "附件/Pasted image 20230315173810.png",
+    "附件/Pasted image 20230315173801.png",
+    "附件/Pasted image 20230315173751.png",
+    "附件/Pasted image 20230315173724.png",
+    "附件/Pasted image 20230315173444.png",
+    "附件/Pasted image 20230315173417.png",
+    "附件/Pasted image 20230315173337.png",
+    "附件/Pasted image 20230315173041.png",
+    "附件/Pasted image 20230315173026.png",
+    "附件/Pasted image 20230315172721.png",
+    "附件/Pasted image 20230315172607.png",
+    "Linux命令/文件操作命令.md",
+    "Linux命令/磁盘管理命令.md",
+    "Linux命令/软件管理命令.md",
+    "Linux命令/GIT.md",
+    "shell脚本语言/shell传递变量.md",
+    "Linux命令",
+    "Linux驱动/驱动概述.md",
+    "shell脚本语言/Shell的循环语句.md",
+    "shell脚本语言/shell进阶.md",
+    "shell脚本语言/shell函数.md",
+    "Qt/Qt布局.md",
+    "Qt/style sheet.md",
+    "shell脚本语言/Shell变量.md",
+    "Linux进程线程/进程通信-IPC.md",
+    "Linux进程线程/进程的生老病死.md",
+    "Linux进程线程/进程通信-system V IPC.md",
+    "Linux进程线程/创建进程和死亡.md",
+    "Linux进程线程/exec簇.md",
+    "Linux进程线程/线程.md",
+    "Linux进程线程/线程池.md",
+    "Linux进程线程/进程基础.md",
+    "Linux进程线程/RTOS的线程通信.md",
+    "shell脚本语言/shell运算符.md",
+    "shell脚本语言/shell数组.md",
+    "shell脚本语言/shell简介.md",
+    "网络/网络，通信与服务.md",
+    "shell脚本语言",
+    "Linux驱动",
+    "socket编程",
+    "模电"
+  ]
+}
