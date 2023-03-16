@@ -4,84 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9ae8b54ccdfb939",
+        "id": "d0152d3e0fc7638f",
         "type": "tabs",
         "children": [
           {
-            "id": "13b7e1606d8f0682",
+            "id": "babcaa2d0cfc49d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell脚本语言/shell传递变量.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c824529376e23668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux命令/软件管理命令.md",
+                "file": "Linux驱动/驱动概述.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63a28836b9670cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux命令/软件管理命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ec76897d8130c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux命令/磁盘管理命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97dca263b988a5c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux命令/GIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "60555bdaebd51caf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d65f442d8b4bd34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux命令/GIT.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -132,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux命令/GIT.md",
+                "file": "Linux驱动/驱动概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux命令/GIT.md",
+                "file": "Linux驱动/驱动概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux命令/GIT.md"
+                "file": "Linux驱动/驱动概述.md"
               }
             }
           }
@@ -214,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "97dca263b988a5c6",
+  "active": "babcaa2d0cfc49d5",
   "lastOpenFiles": [
+    "Linux命令/GIT.md",
+    "android/Android发展.md",
+    "android",
     "附件/Pasted image 20230315173810.png",
     "附件/Pasted image 20230315173801.png",
     "附件/Pasted image 20230315173751.png",
@@ -226,11 +161,9 @@
     "附件/Pasted image 20230315173041.png",
     "附件/Pasted image 20230315173026.png",
     "附件/Pasted image 20230315172721.png",
-    "附件/Pasted image 20230315172607.png",
     "Linux命令/文件操作命令.md",
     "Linux命令/磁盘管理命令.md",
     "Linux命令/软件管理命令.md",
-    "Linux命令/GIT.md",
     "shell脚本语言/shell传递变量.md",
     "Linux命令",
     "Linux驱动/驱动概述.md",
