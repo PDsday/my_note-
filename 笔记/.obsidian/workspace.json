@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18bec1c0ab7abe57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "openwrt/认识openwrt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "4bb9163526d995fe",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux驱动/第一个驱动.md",
+                "file": "openwrt/认识openwrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux驱动/第一个驱动.md",
+                "file": "openwrt/认识openwrt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux驱动/第一个驱动.md"
+                "file": "openwrt/认识openwrt.md"
               }
             }
           }
@@ -189,21 +201,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4e28f3c71d034954",
+  "active": "18bec1c0ab7abe57",
   "lastOpenFiles": [
-    "Linux驱动/字符设备驱动.md",
+    "附件/Pasted image 20230321161610.png",
+    "附件/Pasted image 20230321161546.png",
+    "附件/Pasted image 20230321150627.png",
+    "附件/Pasted image 20230321150519.png",
+    "附件/Pasted image 20230321150344.png",
+    "附件/Pasted image 20230321150127.png",
+    "附件/Pasted image 20230321145852.png",
+    "附件/Pasted image 20230321143805.png",
+    "附件/Pasted image 20230321143158.png",
+    "附件/Pasted image 20230321143043.png",
     "Linux驱动/第一个驱动.md",
+    "openwrt/认识openwrt.md",
+    "openwrt",
+    "Linux驱动/字符设备驱动.md",
     "附件/Pasted image 20230317155311.png",
-    "附件/Pasted image 20230317154247.png",
-    "附件/Pasted image 20230317150823.png",
-    "附件/Pasted image 20230317150459.png",
-    "附件/Pasted image 20230317150222.png",
-    "附件/Pasted image 20230317150046.png",
-    "附件/Pasted image 20230317144958.png",
-    "附件/Pasted image 20230317144211.png",
     "Linux驱动/驱动概述.md",
-    "附件/Pasted image 20230317142637.png",
-    "附件/Pasted image 20230317142051.png",
     "Linux进程线程/内核调度入门.md",
     "Linux命令/GIT.md",
     "android/Android发展.md",
@@ -227,7 +242,6 @@
     "Linux进程线程/线程.md",
     "Linux进程线程/线程池.md",
     "Linux进程线程/进程基础.md",
-    "Linux进程线程/RTOS的线程通信.md",
     "shell脚本语言",
     "Linux驱动",
     "socket编程",
