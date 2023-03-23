@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "18bec1c0ab7abe57",
+            "id": "4bc7b729ca17c06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openwrt/认识openwrt.md",
+                "file": "Linux驱动/内核移植2.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,16 +59,16 @@
         "currentTab": 3
       },
       {
-        "id": "4bb9163526d995fe",
+        "id": "607b435f6861c7c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ab17854c96e938a0",
+            "id": "d75868431a394006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux驱动/字符设备驱动.md",
+                "file": "Linux驱动/内核移植2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "openwrt/认识openwrt.md",
+                "file": "Linux驱动/内核移植2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "openwrt/认识openwrt.md",
+                "file": "Linux驱动/内核移植2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "openwrt/认识openwrt.md"
+                "file": "Linux驱动/内核移植2.md"
               }
             }
           }
@@ -201,30 +201,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18bec1c0ab7abe57",
+  "active": "4bc7b729ca17c06a",
   "lastOpenFiles": [
+    "Linux驱动/内核移植.md",
+    "Linux驱动/内核移植2.md",
+    "Linux驱动/第一个驱动.md",
+    "附件/Pasted image 20230323153307.png",
+    "附件/Pasted image 20230323152712.png",
+    "附件/Pasted image 20230323152522.png",
+    "openwrt/认识openwrt.md",
+    "Linux命令/磁盘管理命令.md",
+    "openwrt/SDK.md",
+    "附件/Pasted image 20230322143240.png",
     "附件/Pasted image 20230321161610.png",
     "附件/Pasted image 20230321161546.png",
     "附件/Pasted image 20230321150627.png",
     "附件/Pasted image 20230321150519.png",
     "附件/Pasted image 20230321150344.png",
     "附件/Pasted image 20230321150127.png",
-    "附件/Pasted image 20230321145852.png",
-    "附件/Pasted image 20230321143805.png",
-    "附件/Pasted image 20230321143158.png",
-    "附件/Pasted image 20230321143043.png",
-    "Linux驱动/第一个驱动.md",
-    "openwrt/认识openwrt.md",
     "openwrt",
     "Linux驱动/字符设备驱动.md",
-    "附件/Pasted image 20230317155311.png",
     "Linux驱动/驱动概述.md",
     "Linux进程线程/内核调度入门.md",
     "Linux命令/GIT.md",
     "android/Android发展.md",
     "android",
     "Linux命令/文件操作命令.md",
-    "Linux命令/磁盘管理命令.md",
     "Linux命令/软件管理命令.md",
     "shell脚本语言/shell传递变量.md",
     "Linux命令",
@@ -239,9 +241,6 @@
     "Linux进程线程/进程通信-system V IPC.md",
     "Linux进程线程/创建进程和死亡.md",
     "Linux进程线程/exec簇.md",
-    "Linux进程线程/线程.md",
-    "Linux进程线程/线程池.md",
-    "Linux进程线程/进程基础.md",
     "shell脚本语言",
     "Linux驱动",
     "socket编程",
