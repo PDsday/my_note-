@@ -6,6 +6,7 @@
       {
         "id": "d0152d3e0fc7638f",
         "type": "tabs",
+        "dimension": 50.35799522673031,
         "children": [
           {
             "id": "babcaa2d0cfc49d5",
@@ -66,21 +67,46 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "931932579702aa3f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3cede821ac17b46c",
+            "id": "260c458353ce8f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "openwrt/openwrt makefile.md",
+                "file": "Linux驱动/字符设备驱动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e5f13780a5029b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux驱动/第一个字符驱动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "1089d6325b27c51f",
+        "type": "tabs",
+        "dimension": 49.64200477326969,
+        "children": [
+          {
+            "id": "e018eebce123078a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "openwrt/openwrt 目录结构.md",
                 "mode": "preview",
                 "source": false
               }
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "openwrt/openwrt makefile.md",
+                "file": "Linux驱动/第一个字符驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "openwrt/openwrt makefile.md",
+                "file": "Linux驱动/第一个字符驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "openwrt/openwrt makefile.md"
+                "file": "Linux驱动/第一个字符驱动.md"
               }
             }
           }
@@ -213,31 +239,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6bcbe74ef7f3dfd",
+  "active": "a2e5f13780a5029b",
   "lastOpenFiles": [
+    "Linux驱动/字符设备驱动.md",
+    "Linux驱动/第一个字符驱动.md",
+    "Linux命令/GIT.md",
+    "openwrt/openwrt makefile.md",
+    "openwrt/openwrt 目录结构.md",
+    "附件/Pasted image 20230324101309.png",
+    "附件/Pasted image 20230324100504.png",
+    "附件/Pasted image 20230324100228.png",
+    "附件/Pasted image 20230324095436.png",
+    "附件/Pasted image 20230324094158.png",
+    "附件/Pasted image 20230324094008.png",
+    "附件/Pasted image 20230324093950.png",
     "附件/Pasted image 20230323180119.png",
     "附件/Pasted image 20230323175915.png",
     "附件/Pasted image 20230323174916.png",
-    "附件/Pasted image 20230323173150.png",
-    "附件/Pasted image 20230323172447.png",
-    "附件/Pasted image 20230323172203.png",
     "Linux驱动/内核移植2.md",
-    "openwrt/openwrt makefile.md",
     "Linux驱动/内核移植.md",
     "Linux驱动/第一个驱动.md",
-    "附件/Pasted image 20230323153307.png",
-    "附件/Pasted image 20230323152712.png",
-    "附件/Pasted image 20230323152522.png",
     "openwrt/认识openwrt.md",
     "Linux命令/磁盘管理命令.md",
     "openwrt/SDK.md",
-    "附件/Pasted image 20230322143240.png",
-    "附件/Pasted image 20230321161610.png",
     "openwrt",
-    "Linux驱动/字符设备驱动.md",
     "Linux驱动/驱动概述.md",
     "Linux进程线程/内核调度入门.md",
-    "Linux命令/GIT.md",
     "android/Android发展.md",
     "android",
     "Linux命令/文件操作命令.md",
@@ -253,7 +280,6 @@
     "Linux进程线程/进程通信-IPC.md",
     "Linux进程线程/进程的生老病死.md",
     "Linux进程线程/进程通信-system V IPC.md",
-    "Linux进程线程/创建进程和死亡.md",
     "shell脚本语言",
     "Linux驱动",
     "socket编程",
