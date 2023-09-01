@@ -4,110 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d0152d3e0fc7638f",
+        "id": "f3a3591249a87284",
         "type": "tabs",
-        "dimension": 50.35799522673031,
         "children": [
           {
-            "id": "babcaa2d0cfc49d5",
+            "id": "02f8551143f28019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux进程线程/内核调度入门.md",
+                "file": "C#/匹配小游戏.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a9de2213c2b06d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux驱动/第一个驱动.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e28f3c71d034954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux驱动/第一个驱动.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bc7b729ca17c06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux驱动/内核移植2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bcbe74ef7f3dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "openwrt/openwrt makefile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "260c458353ce8f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux驱动/字符设备驱动.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e5f13780a5029b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux驱动/第一个字符驱动.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "1089d6325b27c51f",
-        "type": "tabs",
-        "dimension": 49.64200477326969,
-        "children": [
-          {
-            "id": "e018eebce123078a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "openwrt/openwrt 目录结构.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -157,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d9ece4e3c6980a47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "right": {
     "id": "197a133f1c89f85b",
@@ -178,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux驱动/第一个字符驱动.md",
+                "file": "C#/匹配小游戏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux驱动/第一个字符驱动.md",
+                "file": "C#/匹配小游戏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux驱动/第一个字符驱动.md"
+                "file": "C#/匹配小游戏.md"
               }
             }
           }
@@ -231,55 +146,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a2e5f13780a5029b",
+  "active": "02f8551143f28019",
   "lastOpenFiles": [
-    "Linux驱动/字符设备驱动.md",
-    "Linux驱动/第一个字符驱动.md",
-    "Linux命令/GIT.md",
-    "openwrt/openwrt makefile.md",
-    "openwrt/openwrt 目录结构.md",
-    "附件/Pasted image 20230324101309.png",
-    "附件/Pasted image 20230324100504.png",
-    "附件/Pasted image 20230324100228.png",
-    "附件/Pasted image 20230324095436.png",
-    "附件/Pasted image 20230324094158.png",
-    "附件/Pasted image 20230324094008.png",
-    "附件/Pasted image 20230324093950.png",
-    "附件/Pasted image 20230323180119.png",
-    "附件/Pasted image 20230323175915.png",
-    "附件/Pasted image 20230323174916.png",
-    "Linux驱动/内核移植2.md",
-    "Linux驱动/内核移植.md",
-    "Linux驱动/第一个驱动.md",
-    "openwrt/认识openwrt.md",
-    "Linux命令/磁盘管理命令.md",
-    "openwrt/SDK.md",
+    "C#/C  sharp 随机数(Random).md",
+    "C#/匹配小游戏.md",
+    "附件/Pasted image 20230901093710.png",
+    "附件/Pasted image 20230901093511.png",
+    "附件/Pasted image 20230901093431.png",
+    "附件/Pasted image 20230901093334.png",
+    "附件/Pasted image 20230901093115.png",
+    "附件/Pasted image 20230831173240.png",
+    "附件/Pasted image 20230831173108.png",
+    "附件/Pasted image 20230831172902.png",
+    "附件/Pasted image 20230831172720.png",
+    "附件/Pasted image 20230831172523.png",
+    "C#/数学测验小应用.md",
+    "STM32/星辰上位机与STM32串口通信.md",
+    "C#/创建一个简易的图片查看器.md",
+    "C#/使用C Sharp创建简单的WPF应用.md",
+    "STM32/CAN_bus.md",
+    "STM32/STM32F405_片内Flash.md",
+    "STM32/嵌入式.md",
+    "STM32/ARM.md",
+    "STM32/GPIO.md",
+    "STM32/RS-485.md",
+    "STM32/STM32bxCAN.md",
+    "STM32/Modbus RTU.md",
+    "C#/C Sharp应用开发帮助文档.md",
+    "C#/循环运算符.md",
+    "C#/判断预算符.md",
+    "C#/字符串类.md",
+    "C#/C shap 类.md",
+    "C#/可空类型.md",
+    "C#/封装(Class 权限).md",
+    "C#/数组.md",
+    "Obsidian_markdown语法/markdown语法.md",
+    "Obsidian_markdown语法/www.baidu.com.md",
+    "C#/Button组件.md",
+    "C#",
     "openwrt",
-    "Linux驱动/驱动概述.md",
-    "Linux进程线程/内核调度入门.md",
-    "android/Android发展.md",
     "android",
-    "Linux命令/文件操作命令.md",
-    "Linux命令/软件管理命令.md",
-    "shell脚本语言/shell传递变量.md",
     "Linux命令",
-    "shell脚本语言/Shell的循环语句.md",
-    "shell脚本语言/shell进阶.md",
-    "shell脚本语言/shell函数.md",
-    "Qt/Qt布局.md",
-    "Qt/style sheet.md",
-    "shell脚本语言/Shell变量.md",
-    "Linux进程线程/进程通信-IPC.md",
-    "Linux进程线程/进程的生老病死.md",
-    "Linux进程线程/进程通信-system V IPC.md",
     "shell脚本语言",
     "Linux驱动",
     "socket编程",
