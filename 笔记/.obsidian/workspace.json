@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/匹配小游戏.md",
+                "file": "C#/升级器解析/H6升级器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf31a1693d1faed4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b14c5e8676182a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/升级器解析/H6升级器.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/匹配小游戏.md",
+                "file": "C#/升级器解析/H6升级器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/匹配小游戏.md",
+                "file": "C#/升级器解析/H6升级器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/匹配小游戏.md"
+                "file": "C#/升级器解析/H6升级器.md"
+              }
+            }
+          },
+          {
+            "id": "47376e4d2c2a581d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -154,50 +185,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02f8551143f28019",
+  "active": "b14c5e8676182a94",
   "lastOpenFiles": [
-    "C#/C  sharp 随机数(Random).md",
-    "C#/匹配小游戏.md",
-    "附件/Pasted image 20230901093710.png",
-    "附件/Pasted image 20230901093511.png",
-    "附件/Pasted image 20230901093431.png",
-    "附件/Pasted image 20230901093334.png",
-    "附件/Pasted image 20230901093115.png",
-    "附件/Pasted image 20230831173240.png",
-    "附件/Pasted image 20230831173108.png",
-    "附件/Pasted image 20230831172902.png",
-    "附件/Pasted image 20230831172720.png",
-    "附件/Pasted image 20230831172523.png",
-    "C#/数学测验小应用.md",
-    "STM32/星辰上位机与STM32串口通信.md",
-    "C#/创建一个简易的图片查看器.md",
-    "C#/使用C Sharp创建简单的WPF应用.md",
-    "STM32/CAN_bus.md",
-    "STM32/STM32F405_片内Flash.md",
-    "STM32/嵌入式.md",
-    "STM32/ARM.md",
-    "STM32/GPIO.md",
-    "STM32/RS-485.md",
-    "STM32/STM32bxCAN.md",
-    "STM32/Modbus RTU.md",
-    "C#/C Sharp应用开发帮助文档.md",
-    "C#/循环运算符.md",
-    "C#/判断预算符.md",
-    "C#/字符串类.md",
-    "C#/C shap 类.md",
-    "C#/可空类型.md",
-    "C#/封装(Class 权限).md",
-    "C#/数组.md",
-    "Obsidian_markdown语法/markdown语法.md",
-    "Obsidian_markdown语法/www.baidu.com.md",
-    "C#/Button组件.md",
+    "附件/Pasted image 20230918123020.png",
+    "附件/Pasted image 20230918122803.png",
+    "C#/基本语法/数组.md",
+    "C#/C sharp 数据互转.md",
+    "附件/Pasted image 20230914160707.png",
+    "附件/Pasted image 20230914091717.png",
+    "附件/Pasted image 20230914091402.png",
+    "附件/Pasted image 20230914090844.png",
+    "附件/Pasted image 20230914085813.png",
+    "附件/Pasted image 20230914085639.png",
+    "附件/Pasted image 20230913173238.png",
+    "附件/Pasted image 20230913172500.png",
+    "附件/Pasted image 20230913171517.png",
+    "C#/WindowsFrom窗体/数学测验小应用.md",
+    "C#/升级器解析/H6升级器.md",
+    "C#/升级器解析",
+    "C#/WindowsFrom窗体/匹配小游戏.md",
+    "C#/WindowsFrom窗体/登录界面.md",
+    "C#/WindowsFrom窗体/控件圆角.md",
+    "C#/WindowsFrom窗体/控件---TabControl.md",
+    "C#/Csharp文件IO/文件的输入与输出.md",
+    "C#/Csharp网络接口/Socket.md",
+    "C#/进程线程/线程池.md",
+    "C#/进程线程/线程.md",
+    "C#/基本语法/Delegate委托.md",
+    "C#/Csharp网络接口/TCPClient和TCPListener.md",
+    "C#/Csharp文件IO/更多文件IO.md",
+    "C#/基本语法/字符串类.md",
+    "C#/基本语法/C sharp数据类型.md",
+    "C#/基本语法/C Sharp基本语法.md",
+    "Linux进程线程/线程池.md",
+    "C#/基本语法/可空类型.md",
+    "C#/进程线程",
+    "C#/Csharp文件IO",
+    "C#/基本语法/C shap 类.md",
+    "C#/Csharp网络接口",
+    "C#/WindowsFrom窗体",
+    "C#/基本语法/Untitled",
+    "C#/基本语法/认识C Sharp.md",
+    "C#/基本语法/循环运算符.md",
+    "C#/基本语法",
+    "C#/基本语法/判断预算符.md",
+    "C#/WindowsFrom窗体/控件---CheckBox.md",
     "C#",
     "openwrt",
-    "android",
-    "Linux命令",
-    "shell脚本语言",
-    "Linux驱动",
-    "socket编程",
-    "模电"
+    "android"
   ]
 }
