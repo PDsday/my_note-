@@ -8,7 +8,7 @@
 	}
 ```
 
-#### 2、byte转string
+#### 2、byte[]转string
 ```C
 	public static BytesToString(byte[] byteArry)
 	{

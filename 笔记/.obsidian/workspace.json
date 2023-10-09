@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f3a3591249a87284",
+        "id": "5fc268de68c82dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "02f8551143f28019",
+            "id": "e5df79efb3b39b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/升级器解析/H6升级器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf31a1693d1faed4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b14c5e8676182a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/升级器解析/H6升级器.md",
-                "mode": "source",
+                "file": "C#/常用方法/C sharp 字符串与数组互转.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 203.5
   },
   "right": {
     "id": "197a133f1c89f85b",
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/升级器解析/H6升级器.md",
+                "file": "C#/常用方法/C sharp 字符串与数组互转.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/升级器解析/H6升级器.md",
+                "file": "C#/常用方法/C sharp 字符串与数组互转.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/升级器解析/H6升级器.md"
+                "file": "C#/常用方法/C sharp 字符串与数组互转.md"
               }
             }
           },
@@ -177,61 +156,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "b14c5e8676182a94",
+  "active": "e5df79efb3b39b8b",
   "lastOpenFiles": [
-    "附件/Pasted image 20230918123020.png",
-    "附件/Pasted image 20230918122803.png",
+    "网络/ARP.md",
+    "git/git命令.md",
+    "未命名",
+    "Python",
+    "git/GIT.md",
+    "C#/常用方法/C sharp 字符串与数组互转.md",
+    "C#/常用方法/非窗体程序调用窗体的控件.md",
+    "C#/WPF/自定义控件(没搞明白).md",
+    "C#/常用方法/WPF设置启动的窗体.md",
+    "C#/基本语法/C Sharp基本语法.md",
+    "C#/基本语法/认识C Sharp.md",
+    "C#/WindowsFrom窗体/登录界面.md",
+    "附件/Pasted image 20230926143617.png",
+    "git",
+    "C#/常用方法/获取本地时间.md",
+    "星辰/伺服参数.md",
+    "C#/常用方法/WPF Resource.resx.md",
+    "星辰",
+    "附件/Pasted image 20230925120652.png",
+    "C#/常用方法",
+    "C#/升级器解析/H6升级器.md",
+    "C#/升级器解析/操作注册表.md",
+    "C#/升级器解析/操作ini文件.md",
+    "附件/Pasted image 20230919145215.png",
+    "附件/Pasted image 20230919143352.png",
+    "附件/Pasted image 20230919143309.png",
+    "附件/Pasted image 20230919143054.png",
+    "附件/Pasted image 20230919104604.png",
+    "附件/Pasted image 20230919104442.png",
+    "附件/Pasted image 20230919104154.png",
+    "附件/Pasted image 20230919103918.png",
+    "C#/WPF",
     "C#/基本语法/数组.md",
     "C#/C sharp 数据互转.md",
-    "附件/Pasted image 20230914160707.png",
-    "附件/Pasted image 20230914091717.png",
-    "附件/Pasted image 20230914091402.png",
-    "附件/Pasted image 20230914090844.png",
-    "附件/Pasted image 20230914085813.png",
-    "附件/Pasted image 20230914085639.png",
-    "附件/Pasted image 20230913173238.png",
-    "附件/Pasted image 20230913172500.png",
-    "附件/Pasted image 20230913171517.png",
     "C#/WindowsFrom窗体/数学测验小应用.md",
-    "C#/升级器解析/H6升级器.md",
     "C#/升级器解析",
     "C#/WindowsFrom窗体/匹配小游戏.md",
-    "C#/WindowsFrom窗体/登录界面.md",
     "C#/WindowsFrom窗体/控件圆角.md",
     "C#/WindowsFrom窗体/控件---TabControl.md",
     "C#/Csharp文件IO/文件的输入与输出.md",
     "C#/Csharp网络接口/Socket.md",
     "C#/进程线程/线程池.md",
     "C#/进程线程/线程.md",
-    "C#/基本语法/Delegate委托.md",
-    "C#/Csharp网络接口/TCPClient和TCPListener.md",
-    "C#/Csharp文件IO/更多文件IO.md",
-    "C#/基本语法/字符串类.md",
-    "C#/基本语法/C sharp数据类型.md",
-    "C#/基本语法/C Sharp基本语法.md",
-    "Linux进程线程/线程池.md",
-    "C#/基本语法/可空类型.md",
     "C#/进程线程",
     "C#/Csharp文件IO",
-    "C#/基本语法/C shap 类.md",
-    "C#/Csharp网络接口",
-    "C#/WindowsFrom窗体",
-    "C#/基本语法/Untitled",
-    "C#/基本语法/认识C Sharp.md",
-    "C#/基本语法/循环运算符.md",
-    "C#/基本语法",
-    "C#/基本语法/判断预算符.md",
-    "C#/WindowsFrom窗体/控件---CheckBox.md",
-    "C#",
-    "openwrt",
-    "android"
+    "C#/Csharp网络接口"
   ]
 }
