@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc268de68c82dd6",
+        "id": "de33605f45af9a8b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5df79efb3b39b8b",
+            "id": "24cdaa60cf4953bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/常用方法/C sharp 字符串与数组互转.md",
-                "mode": "preview",
+                "file": "STM32/SDIO.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,6 +72,18 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "770fb100794dd652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32/SDIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/常用方法/C sharp 字符串与数组互转.md",
+                "file": "STM32/SDIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/常用方法/C sharp 字符串与数组互转.md",
+                "file": "STM32/SDIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/常用方法/C sharp 字符串与数组互转.md"
+                "file": "STM32/SDIO.md"
               }
             }
           },
@@ -143,7 +155,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -151,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,51 +177,51 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5df79efb3b39b8b",
+  "active": "24cdaa60cf4953bc",
   "lastOpenFiles": [
-    "网络/ARP.md",
-    "git/git命令.md",
+    "附件/Pasted image 20240221144245.png",
+    "附件/Pasted image 20240221144226.png",
+    "STM32/陀螺仪.md",
+    "STM32/SDIO.md",
+    "附件/Pasted image 20240221094751.png",
+    "附件/Pasted image 20240221090837.png",
+    "附件/Pasted image 20240221090830.png",
+    "附件/Pasted image 20240221090428.png",
+    "附件/Pasted image 20240221090223.png",
+    "附件/Pasted image 20240220140614.png",
+    "附件/Pasted image 20240220122021.png",
+    "附件/Pasted image 20240220121759.png",
+    "附件/Pasted image 20240220121458.png",
+    "C#/WPF/GridSpliter.md",
+    "STM32/星辰MPC整机.md",
+    "STM32/BootLoader.md",
+    "STM32/Modbus RTU.md",
+    "STM32/星辰上位机与STM32串口通信.md",
+    "STM32/STM32bxCAN.md",
+    "C#/WPF/xaml标记语法.md",
+    "C#/WPF/简述.md",
+    "网络/网络，通信与服务.md",
+    "STM32/STM32F405_片内Flash.md",
+    "STM32/嵌入式.md",
+    "STM32/RS-485.md",
+    "STM32/STM32.md",
+    "STM32/GPIO.md",
+    "STM32/ARM.md",
+    "STM32/CAN_bus.md",
+    "C#/常用方法/C sharp 字符串与数组互转.md",
+    "C#/WPF/自定义按钮样式.md",
+    "C#/WPF/自定义控件(没搞明白).md",
+    "C#/基本语法/数组.md",
+    "C#/基本语法/字符串类.md",
+    "C#/常用方法/获取本地时间.md",
+    "git/GIT.md",
     "未命名",
     "Python",
-    "git/GIT.md",
-    "C#/常用方法/C sharp 字符串与数组互转.md",
-    "C#/常用方法/非窗体程序调用窗体的控件.md",
-    "C#/WPF/自定义控件(没搞明白).md",
-    "C#/常用方法/WPF设置启动的窗体.md",
-    "C#/基本语法/C Sharp基本语法.md",
-    "C#/基本语法/认识C Sharp.md",
-    "C#/WindowsFrom窗体/登录界面.md",
-    "附件/Pasted image 20230926143617.png",
     "git",
-    "C#/常用方法/获取本地时间.md",
-    "星辰/伺服参数.md",
-    "C#/常用方法/WPF Resource.resx.md",
     "星辰",
-    "附件/Pasted image 20230925120652.png",
     "C#/常用方法",
-    "C#/升级器解析/H6升级器.md",
-    "C#/升级器解析/操作注册表.md",
-    "C#/升级器解析/操作ini文件.md",
-    "附件/Pasted image 20230919145215.png",
-    "附件/Pasted image 20230919143352.png",
-    "附件/Pasted image 20230919143309.png",
-    "附件/Pasted image 20230919143054.png",
-    "附件/Pasted image 20230919104604.png",
-    "附件/Pasted image 20230919104442.png",
-    "附件/Pasted image 20230919104154.png",
-    "附件/Pasted image 20230919103918.png",
     "C#/WPF",
-    "C#/基本语法/数组.md",
-    "C#/C sharp 数据互转.md",
-    "C#/WindowsFrom窗体/数学测验小应用.md",
     "C#/升级器解析",
-    "C#/WindowsFrom窗体/匹配小游戏.md",
-    "C#/WindowsFrom窗体/控件圆角.md",
-    "C#/WindowsFrom窗体/控件---TabControl.md",
-    "C#/Csharp文件IO/文件的输入与输出.md",
-    "C#/Csharp网络接口/Socket.md",
-    "C#/进程线程/线程池.md",
-    "C#/进程线程/线程.md",
     "C#/进程线程",
     "C#/Csharp文件IO",
     "C#/Csharp网络接口"
